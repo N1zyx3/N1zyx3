@@ -52,9 +52,6 @@ class the_way_of_the_Ninja:
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=N1zyx3&theme=radical" alt="GitHub Streak" />
 </div>
-<div align="center">
-  <h2>Projects</h2>
-</div>
 
 <div align="center">
   <h2>Contacts</h2>
