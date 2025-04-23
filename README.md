@@ -57,15 +57,6 @@ class the_way_of_the_Ninja:
 </div>
 
 <div align="center">
-  <a href="https://github.com/N1zyx3">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=N1zyx3&repo=project-name&theme=radical" />
-  </a>
-  <a href="https://github.com/N1zyx3">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=N1zyx3&repo=project-name&theme=radical" />
-  </a>
-</div>
-
-<div align="center">
   <h2>Contacts</h2>
   <a href="https://github.com/N1zyx3">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
