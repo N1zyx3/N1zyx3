@@ -4,7 +4,7 @@
 <h3 align="center">Genius, billionaire, playboy, philanthropist, or just a N1zyx3</h3>
 
 [![GitHub](https://img.shields.io/badge/GitHub-N1zyx3-181717?style=for-the-badge&logo=github)](https://github.com/N1zyx3)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Website-FF5722?style=for-the-badge&logo=google-chrome)](https://github.com/N1zyx3)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Website-FF5722?style=for-the-badge&logo=google-chrome)](https://n1zyx3.github.io/)
 
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
 
