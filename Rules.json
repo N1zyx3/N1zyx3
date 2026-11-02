@@ -1,0 +1,28 @@
+{
+  {
+    "action": "route",
+    "domain": [
+      "connect.stealthsurf.net",
+      "gql.twitch.tv",
+      "usher.ttvnw.net",
+      "builds.braydendwyer.com"
+    ],
+    "outbound": "proxy"
+  },
+  {
+    "action": "route",
+    "outbound": "proxy",
+    "process_name": [
+      "msedge.exe",
+      "RiotClientServices.exe",
+      "pycharm64.exe",
+      "idea64.exe"
+    ]
+  },
+  {
+    "action": "reject",
+    "domain": [
+      "spclient.wg.spotify.com"
+    ]
+  }
+}
